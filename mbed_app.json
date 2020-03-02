@@ -1,0 +1,12 @@
+{
+    "config": {
+        "wifi-ssid": {
+            "help": "WiFi SSID",
+            "value": "\"LST-B\""
+        },
+        "wifi-password": {
+            "help": "WiFi Password",
+            "value": "\"wifilst7upm\""
+        }
+    }
+}
